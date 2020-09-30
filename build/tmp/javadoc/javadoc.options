@@ -1,0 +1,11 @@
+-classpath 'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\build\\classes\\java\\main;C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\build\\resources\\main'
+-d 'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\build\\docs\\javadoc'
+-doctitle 'wileyTasks API'
+-quiet 
+-windowtitle 'wileyTasks API'
+'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\src\\main\\java\\App.java'
+'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\src\\main\\java\\com\\osvical\\wiley\\task01\\EvictionStrategyLRU.java'
+'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\src\\main\\java\\com\\osvical\\wiley\\task01\\IEvictionStrategy.java'
+'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\src\\main\\java\\com\\osvical\\wiley\\task01\\IWorker.java'
+'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\src\\main\\java\\com\\osvical\\wiley\\task01\\WorkerCached.java'
+'C:\\Users\\osvic\\IdeaProjects\\wileyTasks\\src\\main\\java\\com\\osvical\\wiley\\task01\\WorkerImpl.java'

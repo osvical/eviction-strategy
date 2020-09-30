@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-30T19:33:09" hostname="vicN" time="0.018">
+  <properties/>
+  <testcase name="testLFU" classname="AppTest" time="0.017"/>
+  <testcase name="testLRU" classname="AppTest" time="0.001"/>
+  <system-out><![CDATA[6
+5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
